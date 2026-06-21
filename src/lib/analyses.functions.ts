@@ -115,8 +115,8 @@ export const analyzeProduct = createServerFn({ method: "POST" })
         safe_dry: parsed.safe_dry,
         safe_sensitive: parsed.safe_sensitive,
         safe_pregnancy: parsed.safe_pregnancy,
-        risky_ingredients: parsed.risky_ingredients ?? [],
-        ingredients: parsed.ingredients ?? [],
+        risky_ingredients: (parsed.risky_ingredients ?? []) as unknown as never,
+        ingredients: (parsed.ingredients ?? []) as unknown as never,
       })
       .select("id")
       .single();
