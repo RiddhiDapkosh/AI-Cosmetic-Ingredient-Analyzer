@@ -227,41 +227,8 @@ https://docs.trychroma.com/
 Google Gemini API Documentation.
 https://ai.google.dev/
 
-### [6]
 
-EasyOCR Documentation.
-https://www.jaided.ai/easyocr/
-
-### [7]
-
-Supabase Documentation.
-https://supabase.com/docs
-
-### [8]
-
-FastAPI Documentation.
-https://fastapi.tiangolo.com/
-
-### [9]
-
-Next.js Documentation.
-https://nextjs.org/docs
-
-### [10]
-
-Tailwind CSS Documentation.
-https://tailwindcss.com/docs
-
-### [11]
-
-Recharts Documentation.
-https://recharts.org/
-
-### [12]
-
-Dosovitskiy, A. et al. (2021).
-"An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale."
-International Conference on Learning Representations (ICLR).
+###Gallery
 
 ### [13]
 
