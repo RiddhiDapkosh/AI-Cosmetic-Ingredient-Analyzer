@@ -233,10 +233,9 @@ Vaswani, A. et al. (2017).
 "Attention Is All You Need."
 Advances in Neural Information Processing Systems (NeurIPS).
 
-###Gallery
+# Gallery
 
 <h3 align="center">Login Page</h3>
-
 <p align="center">
   <img width="1518" height="710" alt="image" src="https://github.com/user-attachments/assets/dc792dee-f911-40d4-acff-abf2b8d3f4a5" />
 
